@@ -52,6 +52,11 @@
 <p><a href="http://blog.amdoing.com/the-post-copyright-in-hexo-next"><del>参考文章</del></a></p>
 <a id="more"></a>
 
+<h1 id="NexT-主题添加圆角效果"><a href="#NexT-主题添加圆角效果" class="headerlink" title="NexT 主题添加圆角效果"></a>NexT 主题添加圆角效果</h1><p>以 Pisces 模式为例，其他模式同理</p>
+<p>themes/next/source/css/_schemes/Pisces/_sidebar.styl 添加 border-radius 属性</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">.sidebar &#123;</span><br><span class="line">  display: none;</span><br><span class="line">  right: auto;</span><br><span class="line">  bottom: auto;</span><br><span class="line">  -webkit-transform: none;</span><br><span class="line">  border-radius:10px;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">.sidebar-inner &#123;</span><br><span class="line">  box-sizing: border-box;</span><br><span class="line">  width: 240px;</span><br><span class="line">  color: $text-color;</span><br><span class="line">  background: white;</span><br><span class="line">  border-radius:10px;</span><br><span class="line">  &amp;.affix &#123; top: 0px; position: fixed; &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>themes/next/source/css/_schemes/Pisces/_layout.styl添加 border-radius 属性</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">.sidebar-position-right &#123;</span><br><span class="line">  .header-inner &#123; right: 0; border-radius:10px;&#125;</span><br><span class="line">  .content-wrap &#123; float: left; &#125;</span><br><span class="line">  .sidebar &#123; float: right; &#125;</span><br><span class="line"></span><br><span class="line">  .footer-inner:before &#123; float: right; &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 <h1 id="修改’-’标签"><a href="#修改’-’标签" class="headerlink" title="修改’#’标签"></a>修改’#’标签</h1><p>修改NexT主题的配置文件(./themes/next/layout/_macro/post.swig)<br>找到</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;%- set tag_indicate &#x3D; &#39;#&#39; %&#125;&gt;&#96;</span><br></pre></td></tr></table></figure>
 <p>改<code>&lt;#&gt;</code>为</p>
@@ -69,25 +74,6 @@
       <tags>
         <tag>Hexo</tag>
         <tag>NexT</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>机器学习</title>
-    <url>/2020/12/04/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<h1 id="基本术语"><a href="#基本术语" class="headerlink" title="基本术语"></a>基本术语</h1><p>数据集，示例（样本），属性，属性值，属性空间，特征向量，<br>学习（训练），，训练数据，训练样本，训练集<br>标记，有标记的示例称为样例</p>
-<h2 id="任务分类"><a href="#任务分类" class="headerlink" title="任务分类"></a>任务分类</h2><p>分类：预测或输出为离散值（人脸识别，动作识别）<br>二分类：（是否，正负，涨跌）<br>多分类：<br>聚类：<br>回归；预测或输出为连续值(房价预测，股票预测)</p>
-<h1 id="监督学习"><a href="#监督学习" class="headerlink" title="监督学习"></a>监督学习</h1><ol>
-<li>监督学习的目的：学习一个由in到out的映射（规则，模型）</li>
-<li>模型集合称为假设空间（模型即假设）<br>假设空间中与训练集一致的假设组成的集合称版本空间</li>
-<li>模型分概率模型（条件概率函数）和非概率模型(决策函数)</li>
-<li>样例-&gt;学习系统-&gt;模型-&gt;预测系统<h1 id="学习方法-模型-策略-算法"><a href="#学习方法-模型-策略-算法" class="headerlink" title="学习方法=模型+策略+算法"></a>学习方法=模型+策略+算法</h1></li>
-</ol>
-]]></content>
-      <categories>
-        <category>机器学习</category>
-      </categories>
-      <tags>
-        <tag>机器学习</tag>
       </tags>
   </entry>
   <entry>
@@ -109,9 +95,34 @@
 ]]></content>
   </entry>
   <entry>
+    <title>机器学习</title>
+    <url>/2020/12/04/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<h1 id="基本术语"><a href="#基本术语" class="headerlink" title="基本术语"></a>基本术语</h1><p>数据集，示例（样本），属性，属性值，属性空间，特征向量，<br>学习（训练），，训练数据，训练样本，训练集<br>标记，有标记的示例称为样例</p>
+<h2 id="任务分类"><a href="#任务分类" class="headerlink" title="任务分类"></a>任务分类</h2><p>分类：预测或输出为离散值（人脸识别，动作识别）<br>二分类：（是否，正负，涨跌）<br>多分类：<br>聚类：<br>回归；预测或输出为连续值(房价预测，股票预测)</p>
+<h1 id="监督学习"><a href="#监督学习" class="headerlink" title="监督学习"></a>监督学习</h1><ol>
+<li>监督学习的目的：学习一个由in到out的映射（规则，模型）</li>
+<li>模型集合称为假设空间（模型即假设）<br>假设空间中与训练集一致的假设组成的集合称版本空间</li>
+<li>模型分概率模型（条件概率函数）和非概率模型(决策函数)</li>
+<li>样例-&gt;学习系统-&gt;模型-&gt;预测系统<h1 id="学习方法-模型-策略-算法"><a href="#学习方法-模型-策略-算法" class="headerlink" title="学习方法=模型+策略+算法"></a>学习方法=模型+策略+算法</h1></li>
+</ol>
+]]></content>
+      <categories>
+        <category>机器学习</category>
+      </categories>
+      <tags>
+        <tag>机器学习</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《苍梧谣》</title>
     <url>/2020/11/28/%E3%80%8A%E8%8B%8D%E6%A2%A7%E8%B0%A3%E3%80%8B/</url>
-    <content><![CDATA[<h1 id="《苍梧谣》"><a href="#《苍梧谣》" class="headerlink" title="《苍梧谣》"></a>《苍梧谣》</h1><p>天！<br>休使圆蟾照客眠。<br>人何在？<br>桂影自婵娟。</p>
+    <content><![CDATA[<h1 id="《苍梧谣》"><a href="#《苍梧谣》" class="headerlink" title="《苍梧谣》"></a>《苍梧谣》</h1><blockquote class="blockquote-center">
+            <i class="fa fa-quote-left"></i>
+            <p>乾无奈，芊芊锁链 </p>
+
+            <i class="fa fa-quote-right"></i>
+          </blockquote>
+<p>天！<br>休使圆蟾照客眠。<br>人何在？<br>桂影自婵娟。</p>
 ]]></content>
       <categories>
         <category>诗词</category>
