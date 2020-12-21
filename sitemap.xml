@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://timerelic.top/2020/12/20/PCB%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc>
+    
+    <lastmod>2020-12-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://timerelic.top/2020/12/19/Python%E5%9F%BA%E7%A1%80/</loc>
+    
+    <lastmod>2020-12-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://timerelic.top/2020/12/18/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%BB%BC%E8%BF%B0/</loc>
+    
+    <lastmod>2020-12-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://timerelic.top/2020/12/04/%E8%8B%B1%E8%AF%AD%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84/</loc>
     
     <lastmod>2020-12-16</lastmod>
@@ -95,7 +116,7 @@
 
   <url>
     <loc>https://timerelic.top/</loc>
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2020-12-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -103,70 +124,91 @@
   
   <url>
     <loc>https://timerelic.top/tags/Hexo/</loc>
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2020-12-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://timerelic.top/tags/NexT/</loc>
-    <lastmod>2020-12-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://timerelic.top/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2020-12-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://timerelic.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2020-12-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://timerelic.top/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2020-12-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://timerelic.top/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2020-12-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://timerelic.top/tags/Python/</loc>
+    <lastmod>2020-12-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://timerelic.top/tags/PCB/</loc>
+    <lastmod>2020-12-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://timerelic.top/tags/%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2020-12-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://timerelic.top/tags/%E8%AF%97%E8%AF%8D/</loc>
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2020-12-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://timerelic.top/tags/%E9%95%BF%E9%9A%BE%E5%8F%A5/</loc>
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2020-12-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://timerelic.top/tags/%E4%BE%8B%E5%8F%A5/</loc>
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2020-12-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://timerelic.top/tags/%E8%8B%B1%E8%AF%AD/</loc>
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2020-12-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://timerelic.top/tags/%E8%AF%AD%E6%B3%95/</loc>
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2020-12-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -175,35 +217,49 @@
   
   <url>
     <loc>https://timerelic.top/categorys/Hexo/</loc>
-    <lastmod>2020-12-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://timerelic.top/categorys/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2020-12-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://timerelic.top/categorys/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2020-12-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://timerelic.top/categorys/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2020-12-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://timerelic.top/categorys/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2020-12-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://timerelic.top/categorys/PCB%E5%8D%B0%E5%88%B6%E7%94%B5%E8%B7%AF%E6%9D%BF/</loc>
+    <lastmod>2020-12-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://timerelic.top/categorys/%E8%AF%97%E8%AF%8D/</loc>
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2020-12-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://timerelic.top/categorys/%E8%8B%B1%E8%AF%AD/</loc>
-    <lastmod>2020-12-17</lastmod>
+    <lastmod>2020-12-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
