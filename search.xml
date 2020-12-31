@@ -44,55 +44,6 @@
       </tags>
   </entry>
   <entry>
-    <title>机器学习</title>
-    <url>/2020/12/15/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<p>[TOC]</p>
-<h1 id="深度学习"><a href="#深度学习" class="headerlink" title="深度学习"></a>深度学习</h1><p>老实说，现在的我，还不懂什么是深度学习，迷茫，未知，促使我踏入这一领域。</p>
-<ul>
-<li>到底，什么是智慧？</li>
-</ul>
-]]></content>
-      <categories>
-        <category>深度学习</category>
-      </categories>
-      <tags>
-        <tag>深度学习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>机器学习</title>
-    <url>/2020/12/04/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<p>机器学习是通过数据进行建模的技术。简而言之，机器学习的目的是得到一个模型。</p>
-<h1 id="基本术语"><a href="#基本术语" class="headerlink" title="基本术语"></a>基本术语</h1><p>数据集，示例（样本），属性，属性值，属性空间，特征向量，<br>学习（训练），，训练数据，训练样本，训练集<br>标记，有标记的示例称为样例</p>
-<h2 id="任务分类"><a href="#任务分类" class="headerlink" title="任务分类"></a>任务分类</h2><p>分类：预测或输出为离散值（人脸识别，动作识别）<br>二分类：（是否，正负，涨跌）<br>多分类：<br>聚类：<br>回归；预测或输出为连续值(房价预测，股票预测)</p>
-<h1 id="监督学习"><a href="#监督学习" class="headerlink" title="监督学习"></a>监督学习</h1><ol>
-<li>监督学习的目的：学习一个由in到out的映射（规则，模型）</li>
-<li>模型集合称为假设空间（模型即假设）<br>假设空间中与训练集一致的假设组成的集合称版本空间</li>
-<li>模型分概率模型（条件概率函数）和非概率模型(决策函数)</li>
-<li>样例-&gt;学习系统-&gt;模型-&gt;预测系统<h1 id="学习方法-模型-策略-算法"><a href="#学习方法-模型-策略-算法" class="headerlink" title="学习方法=模型+策略+算法"></a>学习方法=模型+策略+算法</h1></li>
-</ol>
-]]></content>
-      <categories>
-        <category>机器学习</category>
-      </categories>
-      <tags>
-        <tag>机器学习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>人工智能综述</title>
-    <url>/2020/12/18/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%BB%BC%E8%BF%B0/</url>
-    <content><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h1><figure class="highlight plain"><figcaption><span>&#123;engine:"twopi"&#125;</span></figcaption><table><tr><td class="code"><pre><span class="line">digraph G &#123;</span><br><span class="line"> 人工智能 -&gt; 机器学习 -&gt; 深度学习</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>人工智能</category>
-      </categories>
-      <tags>
-        <tag>人工智能</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>NexT细节</title>
     <url>/2020/11/29/NexT%E7%BB%86%E8%8A%82/</url>
     <content><![CDATA[<h1 id="Hexo-NexT文章断章语句"><a href="#Hexo-NexT文章断章语句" class="headerlink" title="Hexo/NexT文章断章语句"></a>Hexo/NexT文章断章语句</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;!-- more --&gt;</span><br></pre></td></tr></table></figure>
@@ -126,98 +77,52 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/11/26/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>《苍梧谣》</title>
-    <url>/2020/11/28/%E3%80%8A%E8%8B%8D%E6%A2%A7%E8%B0%A3%E3%80%8B/</url>
-    <content><![CDATA[<h1 id="《苍梧谣》"><a href="#《苍梧谣》" class="headerlink" title="《苍梧谣》"></a>《苍梧谣》</h1><blockquote class="blockquote-center">
-            <i class="fa fa-quote-left"></i>
-            <p>乾无奈，芊芊锁链 </p>
-
-            <i class="fa fa-quote-right"></i>
-          </blockquote>
-<p>天！<br>休使圆蟾照客眠。<br>人何在？<br>桂影自婵娟。</p>
+    <title>机器学习</title>
+    <url>/2020/12/04/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<p>机器学习是通过数据进行建模的技术。简而言之，机器学习的目的是得到一个模型。</p>
+<h1 id="基本术语"><a href="#基本术语" class="headerlink" title="基本术语"></a>基本术语</h1><p>数据集，示例（样本），属性，属性值，属性空间，特征向量，<br>学习（训练），，训练数据，训练样本，训练集<br>标记，有标记的示例称为样例</p>
+<h2 id="任务分类"><a href="#任务分类" class="headerlink" title="任务分类"></a>任务分类</h2><p>分类：预测或输出为离散值（人脸识别，动作识别）<br>二分类：（是否，正负，涨跌）<br>多分类：<br>聚类：<br>回归；预测或输出为连续值(房价预测，股票预测)</p>
+<h1 id="监督学习"><a href="#监督学习" class="headerlink" title="监督学习"></a>监督学习</h1><ol>
+<li>监督学习的目的：学习一个由in到out的映射（规则，模型）</li>
+<li>模型集合称为假设空间（模型即假设）<br>假设空间中与训练集一致的假设组成的集合称版本空间</li>
+<li>模型分概率模型（条件概率函数）和非概率模型(决策函数)</li>
+<li>样例-&gt;学习系统-&gt;模型-&gt;预测系统<h1 id="学习方法-模型-策略-算法"><a href="#学习方法-模型-策略-算法" class="headerlink" title="学习方法=模型+策略+算法"></a>学习方法=模型+策略+算法</h1></li>
+</ol>
 ]]></content>
       <categories>
-        <category>诗词</category>
+        <category>机器学习</category>
       </categories>
       <tags>
-        <tag>文章</tag>
-        <tag>诗词</tag>
+        <tag>机器学习</tag>
       </tags>
   </entry>
   <entry>
-    <title>Python基础</title>
-    <url>/2020/12/19/Python%E5%9F%BA%E7%A1%80/</url>
-    <content><![CDATA[<h1 id="1-基础操作"><a href="#1-基础操作" class="headerlink" title="1.基础操作"></a>1.基础操作</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">age &#x3D; 20  		# 声明一个变量age 用来存储一个数字 20</span><br><span class="line">1+1		        # 基础数学加法</span><br><span class="line">print(&#39;Hello World!&#39;)   # 打印Hello World!</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Hello World!</span><br></pre></td></tr></table></figure>
-<a id="more"></a>
-<h1 id="2-条件判断if"><a href="#2-条件判断if" class="headerlink" title="2.条件判断if"></a>2.条件判断if</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">if 1 &#x3D;&#x3D; 2: # 如果 if 跟随的条件为 假 那么不执行属于if 的语句,然后寻找 else</span><br><span class="line">    print(&quot;假的&quot;)</span><br><span class="line">else: # 寻找到 else 之后 执行属于else中的语句</span><br><span class="line">    print(&quot;1&#x3D;&#x3D;2是假的&quot;)</span><br></pre></td></tr></table></figure>
- <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">1&#x3D;&#x3D;2是假的</span><br></pre></td></tr></table></figure>
+    <title>机器学习</title>
+    <url>/2020/12/15/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<p>[TOC]</p>
+<h1 id="深度学习"><a href="#深度学习" class="headerlink" title="深度学习"></a>深度学习</h1><p>老实说，现在的我，还不懂什么是深度学习，迷茫，未知，促使我踏入这一领域。</p>
+<ul>
+<li>到底，什么是智慧？</li>
+</ul>
+]]></content>
+      <categories>
+        <category>深度学习</category>
+      </categories>
+      <tags>
+        <tag>深度学习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人工智能综述</title>
+    <url>/2020/12/18/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%BB%BC%E8%BF%B0/</url>
+    <content><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h1><figure class="highlight plain"><figcaption><span>&#123;engine:"twopi"&#125;</span></figcaption><table><tr><td class="code"><pre><span class="line">digraph G &#123;</span><br><span class="line"> 人工智能 -&gt; 机器学习 -&gt; 深度学习</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
-<h1 id="3-循环操作"><a href="#3-循环操作" class="headerlink" title="3.循环操作"></a>3.循环操作</h1><h2 id="循环操作—for"><a href="#循环操作—for" class="headerlink" title="循环操作—for"></a>循环操作—for</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">for i in range(2,5):</span><br><span class="line">    print(i)</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td></tr></table></figure>
-<h2 id="循环操作—while"><a href="#循环操作—while" class="headerlink" title="循环操作—while"></a>循环操作—while</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sum &#x3D; 0    #求1+2+3...+99</span><br><span class="line">n &#x3D; 99</span><br><span class="line">while n &gt; 0:</span><br><span class="line">    sum &#x3D; sum + n</span><br><span class="line">    n &#x3D; n - 1</span><br><span class="line">print(sum)</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">4950</span><br></pre></td></tr></table></figure>
-<h1 id="4-break、continue、pass"><a href="#4-break、continue、pass" class="headerlink" title="4.break、continue、pass"></a>4.break、continue、pass</h1><h2 id="break语句可以跳出-for-和-while-的循环体"><a href="#break语句可以跳出-for-和-while-的循环体" class="headerlink" title="break语句可以跳出 for 和 while 的循环体"></a>break语句可以跳出 for 和 while 的循环体</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">n &#x3D; 1</span><br><span class="line">while n &lt;&#x3D; 100:</span><br><span class="line">    if n &gt; 10:</span><br><span class="line">        break</span><br><span class="line">    print(n)</span><br><span class="line">    n +&#x3D; 1</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td></tr></table></figure>
-<h2 id="continue语句跳过当前循环，直接进行下一轮循环"><a href="#continue语句跳过当前循环，直接进行下一轮循环" class="headerlink" title="continue语句跳过当前循环，直接进行下一轮循环"></a>continue语句跳过当前循环，直接进行下一轮循环</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">n &#x3D; 1</span><br><span class="line">while n &lt; 10:</span><br><span class="line">    n &#x3D; n + 1</span><br><span class="line">    if n % 2 &#x3D;&#x3D; 0:</span><br><span class="line">        continue</span><br><span class="line">    print(n)</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">3</span><br><span class="line">5</span><br><span class="line">7</span><br><span class="line">9</span><br></pre></td></tr></table></figure>
-<h2 id="pass是空语句，一般用做占位语句，不做任何事情"><a href="#pass是空语句，一般用做占位语句，不做任何事情" class="headerlink" title="pass是空语句，一般用做占位语句，不做任何事情"></a>pass是空语句，一般用做占位语句，不做任何事情</h2> <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">for letter in &#39;Room&#39;:</span><br><span class="line">   if letter &#x3D;&#x3D; &#39;o&#39;:</span><br><span class="line">       pass</span><br><span class="line">       print(&#39;pass&#39;)</span><br><span class="line">   print(letter)</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">R</span><br><span class="line">pass</span><br><span class="line">o</span><br><span class="line">pass</span><br><span class="line">o</span><br><span class="line">m</span><br></pre></td></tr></table></figure>
-<h1 id="5-数据类型"><a href="#5-数据类型" class="headerlink" title="5.数据类型"></a>5.数据类型</h1><h2 id="数据类型—Number-数字"><a href="#数据类型—Number-数字" class="headerlink" title="数据类型—Number(数字)"></a>数据类型—Number(数字)</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#Python支持int, float, complex三种不同的数字类型</span><br><span class="line">a &#x3D; 3</span><br><span class="line">b &#x3D; 3.14</span><br><span class="line">c &#x3D; 3 + 4j</span><br><span class="line">print(type(a), type(b), type(c))</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;class &#39;int&#39;&gt; &lt;class &#39;float&#39;&gt; &lt;class &#39;complex&#39;&gt;</span><br></pre></td></tr></table></figure>
-<h2 id="数据类型—String（字符串）"><a href="#数据类型—String（字符串）" class="headerlink" title="数据类型—String（字符串）"></a>数据类型—String（字符串）</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#支持字符串拼接、截取等多种运算</span><br><span class="line">a &#x3D; &quot;Hello&quot;</span><br><span class="line">b &#x3D; &quot;Python&quot;</span><br><span class="line">print(&quot;a + b 输出结果：&quot;, a + b) #拼接</span><br><span class="line">print(&quot;a[1:4] 输出结果：&quot;, a[1:4]) #截取</span><br><span class="line">print(type(a))</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">a + b 输出结果： HelloPython</span><br><span class="line">a[1:4] 输出结果： ell</span><br><span class="line">&lt;class &#39;str&#39;&gt;</span><br></pre></td></tr></table></figure>
-<h2 id="数据类型—List（列表）"><a href="#数据类型—List（列表）" class="headerlink" title="数据类型—List（列表）"></a>数据类型—List（列表）</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#列表是写在方括号 [] 之间、用逗号分隔开的元素列表。</span><br><span class="line">#列表索引值以 0 为开始值，-1 为从末尾的开始位置。</span><br><span class="line">#列表里面也可以包含列表</span><br><span class="line">list &#x3D; [&#39;abcd&#39;, 786 , 2.23, &#39;runoob&#39;, 70.2]</span><br><span class="line">print(list[1:3])</span><br><span class="line"></span><br><span class="line">tinylist &#x3D; [123, &#39;runoob&#39;]</span><br><span class="line">print(list + tinylist)</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[786, 2.23]</span><br><span class="line">[&#39;abcd&#39;, 786, 2.23, &#39;runoob&#39;, 70.2, 123, &#39;runoob&#39;]</span><br></pre></td></tr></table></figure>
-<h2 id="数据类型—Tuple（元组）"><a href="#数据类型—Tuple（元组）" class="headerlink" title="数据类型—Tuple（元组）"></a>数据类型—Tuple（元组）</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#tuple与list类似，不同之处在于tuple的元素不能修改。tuple写在小括号里，元素之间用逗号隔开。</span><br><span class="line">#元组的元素不可变，但可以包含可变对象，如list。</span><br><span class="line">t1 &#x3D; (&#39;abcd&#39;, 786 , 2.23, &#39;runoob&#39;, 70.2)</span><br><span class="line">t2 &#x3D; (1, )</span><br><span class="line">t3 &#x3D; (&#39;a&#39;, &#39;b&#39;, [&#39;A&#39;, &#39;B&#39;])</span><br><span class="line">t3[2][0] &#x3D; &#39;X&#39;</span><br><span class="line">print(t3)</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">(&#39;a&#39;, &#39;b&#39;, [&#39;X&#39;, &#39;B&#39;])</span><br></pre></td></tr></table></figure>
-<h2 id="数据类型—dict（字典）"><a href="#数据类型—dict（字典）" class="headerlink" title="数据类型—dict（字典）"></a>数据类型—dict（字典）</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#字典是无序的对象集合，使用键-值（key-value）存储，具有极快的查找速度。</span><br><span class="line">#键(key)必须使用不可变类型。</span><br><span class="line">#同一个字典中，键(key)必须是唯一的。</span><br><span class="line">d &#x3D; &#123;&#39;Michael&#39;: 95, &#39;Bob&#39;: 75, &#39;Tracy&#39;: 85&#125;</span><br><span class="line">print(d[&#39;Michael&#39;])</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">95</span><br></pre></td></tr></table></figure>
-<h2 id="数据类型—set（集合）"><a href="#数据类型—set（集合）" class="headerlink" title="数据类型—set（集合）"></a>数据类型—set（集合）</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#set和dict类似，也是一组key的集合，但不存储value。由于key不能重复，所以，在set中，没有重复的key。</span><br><span class="line">#set是无序的，重复元素在set中自动被过滤。</span><br><span class="line">s &#x3D; set([1, 1, 2, 2, 3, 3])</span><br><span class="line">print(s)</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;1, 2, 3&#125;</span><br></pre></td></tr></table></figure>]]></content>
+]]></content>
       <categories>
         <category>人工智能</category>
       </categories>
       <tags>
-        <tag>Python</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>HEXO文章之-图片插入</title>
-    <url>/2020/12/21/HEXO%E6%96%87%E7%AB%A0%E4%B9%8B-%E5%9B%BE%E7%89%87%E6%8F%92%E5%85%A5/</url>
-    <content><![CDATA[<h1 id="第一步：安装插件，在hexo根目录打开Git-Bash-执行"><a href="#第一步：安装插件，在hexo根目录打开Git-Bash-执行" class="headerlink" title="第一步：安装插件，在hexo根目录打开Git Bash,执行"></a>第一步：安装插件，在hexo根目录打开Git Bash,执行</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install hexo-asset-image --save</span><br></pre></td></tr></table></figure>
-<h1 id="第二步：打开hexo的配置文件-config-yml"><a href="#第二步：打开hexo的配置文件-config-yml" class="headerlink" title="第二步：打开hexo的配置文件_config.yml"></a>第二步：打开hexo的配置文件_config.yml</h1><p>找到 post_asset_folder，把这个选项从false改成true</p>
-<a id="more"></a>
-<h1 id="第三步：打开"><a href="#第三步：打开" class="headerlink" title="第三步：打开"></a>第三步：打开</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x2F;node_modules&#x2F;hexo-asset-image&#x2F;index.js</span><br></pre></td></tr></table></figure>
-<p>将内容更换为下面的代码<br>（在此感谢Ericam_ 大神：<a href="https://blog.csdn.net/xjm850552586%EF%BC%89">https://blog.csdn.net/xjm850552586）</a></p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#39;use strict&#39;;</span><br><span class="line">var cheerio &#x3D; require(&#39;cheerio&#39;);</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F; http:&#x2F;&#x2F;stackoverflow.com&#x2F;questions&#x2F;14480345&#x2F;how-to-get-the-nth-occurrence-in-a-string</span><br><span class="line">function getPosition(str, m, i) &#123;</span><br><span class="line">  return str.split(m, i).join(m).length;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">var version &#x3D; String(hexo.version).split(&#39;.&#39;);</span><br><span class="line">hexo.extend.filter.register(&#39;after_post_render&#39;, function(data)&#123;</span><br><span class="line">  var config &#x3D; hexo.config;</span><br><span class="line">  if(config.post_asset_folder)&#123;</span><br><span class="line">        var link &#x3D; data.permalink;</span><br><span class="line">    if(version.length &gt; 0 &amp;&amp; Number(version[0]) &#x3D;&#x3D; 3)</span><br><span class="line">       var beginPos &#x3D; getPosition(link, &#39;&#x2F;&#39;, 1) + 1;</span><br><span class="line">    else</span><br><span class="line">       var beginPos &#x3D; getPosition(link, &#39;&#x2F;&#39;, 3) + 1;</span><br><span class="line">    &#x2F;&#x2F; In hexo 3.1.1, the permalink of &quot;about&quot; page is like &quot;...&#x2F;about&#x2F;index.html&quot;.</span><br><span class="line">    var endPos &#x3D; link.lastIndexOf(&#39;&#x2F;&#39;) + 1;</span><br><span class="line">    link &#x3D; link.substring(beginPos, endPos);</span><br><span class="line"></span><br><span class="line">    var toprocess &#x3D; [&#39;excerpt&#39;, &#39;more&#39;, &#39;content&#39;];</span><br><span class="line">    for(var i &#x3D; 0; i &lt; toprocess.length; i++)&#123;</span><br><span class="line">      var key &#x3D; toprocess[i];</span><br><span class="line"> </span><br><span class="line">      var $ &#x3D; cheerio.load(data[key], &#123;</span><br><span class="line">        ignoreWhitespace: false,</span><br><span class="line">        xmlMode: false,</span><br><span class="line">        lowerCaseTags: false,</span><br><span class="line">        decodeEntities: false</span><br><span class="line">      &#125;);</span><br><span class="line"></span><br><span class="line">      $(&#39;img&#39;).each(function()&#123;</span><br><span class="line">        if ($(this).attr(&#39;src&#39;))&#123;</span><br><span class="line">            &#x2F;&#x2F; For windows style path, we replace &#39;\&#39; to &#39;&#x2F;&#39;.</span><br><span class="line">            var src &#x3D; $(this).attr(&#39;src&#39;).replace(&#39;\\&#39;, &#39;&#x2F;&#39;);</span><br><span class="line">            if(!&#x2F;http[s]*.*|\&#x2F;\&#x2F;.*&#x2F;.test(src) &amp;&amp;</span><br><span class="line">               !&#x2F;^\s*\&#x2F;&#x2F;.test(src)) &#123;</span><br><span class="line">              &#x2F;&#x2F; For &quot;about&quot; page, the first part of &quot;src&quot; can&#39;t be removed.</span><br><span class="line">              &#x2F;&#x2F; In addition, to support multi-level local directory.</span><br><span class="line">              var linkArray &#x3D; link.split(&#39;&#x2F;&#39;).filter(function(elem)&#123;</span><br><span class="line">                return elem !&#x3D; &#39;&#39;;</span><br><span class="line">              &#125;);</span><br><span class="line">              var srcArray &#x3D; src.split(&#39;&#x2F;&#39;).filter(function(elem)&#123;</span><br><span class="line">                return elem !&#x3D; &#39;&#39; &amp;&amp; elem !&#x3D; &#39;.&#39;;</span><br><span class="line">              &#125;);</span><br><span class="line">              if(srcArray.length &gt; 1)</span><br><span class="line">                srcArray.shift();</span><br><span class="line">              src &#x3D; srcArray.join(&#39;&#x2F;&#39;);</span><br><span class="line">              $(this).attr(&#39;src&#39;, config.root + link + src);</span><br><span class="line">              console.info&amp;&amp;console.info(&quot;update link as:--&gt;&quot;+config.root + link + src);</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;else&#123;</span><br><span class="line">            console.info&amp;&amp;console.info(&quot;no src attr, skipped...&quot;);</span><br><span class="line">            console.info&amp;&amp;console.info($(this));</span><br><span class="line">        &#125;</span><br><span class="line">      &#125;);</span><br><span class="line">      data[key] &#x3D; $.html();</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>
-<h1 id="第四步：现在就可以插入图片了，比如hexo-new-post-photo之后"><a href="#第四步：现在就可以插入图片了，比如hexo-new-post-photo之后" class="headerlink" title="第四步：现在就可以插入图片了，比如hexo new post photo之后"></a>第四步：现在就可以插入图片了，比如hexo new post photo之后</h1><p>就在source/_posts生成photo.md文件和photo文件夹，我们把要插入的图片复制到photo文件夹内，<br>在photo.md文件里面按markdown的标准写,（我的文件名是head.jpeg）比如</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">![这是代替图片的文字，随便写](head.jpeg)</span><br></pre></td></tr></table></figure>
-<p>参考链接：<a href="https://www.jianshu.com/p/f72aaad7b852">https://www.jianshu.com/p/f72aaad7b852</a></p>
-]]></content>
-      <categories>
-        <category>Hexo</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
+        <tag>人工智能</tag>
       </tags>
   </entry>
   <entry>
@@ -334,6 +239,113 @@
       </tags>
   </entry>
   <entry>
+    <title>Python基础</title>
+    <url>/2020/12/19/Python%E5%9F%BA%E7%A1%80/</url>
+    <content><![CDATA[<h1 id="1-基础操作"><a href="#1-基础操作" class="headerlink" title="1.基础操作"></a>1.基础操作</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">age &#x3D; 20  		# 声明一个变量age 用来存储一个数字 20</span><br><span class="line">1+1		        # 基础数学加法</span><br><span class="line">print(&#39;Hello World!&#39;)   # 打印Hello World!</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Hello World!</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+<h1 id="2-条件判断if"><a href="#2-条件判断if" class="headerlink" title="2.条件判断if"></a>2.条件判断if</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">if 1 &#x3D;&#x3D; 2: # 如果 if 跟随的条件为 假 那么不执行属于if 的语句,然后寻找 else</span><br><span class="line">    print(&quot;假的&quot;)</span><br><span class="line">else: # 寻找到 else 之后 执行属于else中的语句</span><br><span class="line">    print(&quot;1&#x3D;&#x3D;2是假的&quot;)</span><br></pre></td></tr></table></figure>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">1&#x3D;&#x3D;2是假的</span><br></pre></td></tr></table></figure>
+
+<h1 id="3-循环操作"><a href="#3-循环操作" class="headerlink" title="3.循环操作"></a>3.循环操作</h1><h2 id="循环操作—for"><a href="#循环操作—for" class="headerlink" title="循环操作—for"></a>循环操作—for</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">for i in range(2,5):</span><br><span class="line">    print(i)</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td></tr></table></figure>
+<h2 id="循环操作—while"><a href="#循环操作—while" class="headerlink" title="循环操作—while"></a>循环操作—while</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sum &#x3D; 0    #求1+2+3...+99</span><br><span class="line">n &#x3D; 99</span><br><span class="line">while n &gt; 0:</span><br><span class="line">    sum &#x3D; sum + n</span><br><span class="line">    n &#x3D; n - 1</span><br><span class="line">print(sum)</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">4950</span><br></pre></td></tr></table></figure>
+<h1 id="4-break、continue、pass"><a href="#4-break、continue、pass" class="headerlink" title="4.break、continue、pass"></a>4.break、continue、pass</h1><h2 id="break语句可以跳出-for-和-while-的循环体"><a href="#break语句可以跳出-for-和-while-的循环体" class="headerlink" title="break语句可以跳出 for 和 while 的循环体"></a>break语句可以跳出 for 和 while 的循环体</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">n &#x3D; 1</span><br><span class="line">while n &lt;&#x3D; 100:</span><br><span class="line">    if n &gt; 10:</span><br><span class="line">        break</span><br><span class="line">    print(n)</span><br><span class="line">    n +&#x3D; 1</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td></tr></table></figure>
+<h2 id="continue语句跳过当前循环，直接进行下一轮循环"><a href="#continue语句跳过当前循环，直接进行下一轮循环" class="headerlink" title="continue语句跳过当前循环，直接进行下一轮循环"></a>continue语句跳过当前循环，直接进行下一轮循环</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">n &#x3D; 1</span><br><span class="line">while n &lt; 10:</span><br><span class="line">    n &#x3D; n + 1</span><br><span class="line">    if n % 2 &#x3D;&#x3D; 0:</span><br><span class="line">        continue</span><br><span class="line">    print(n)</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">3</span><br><span class="line">5</span><br><span class="line">7</span><br><span class="line">9</span><br></pre></td></tr></table></figure>
+<h2 id="pass是空语句，一般用做占位语句，不做任何事情"><a href="#pass是空语句，一般用做占位语句，不做任何事情" class="headerlink" title="pass是空语句，一般用做占位语句，不做任何事情"></a>pass是空语句，一般用做占位语句，不做任何事情</h2> <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">for letter in &#39;Room&#39;:</span><br><span class="line">   if letter &#x3D;&#x3D; &#39;o&#39;:</span><br><span class="line">       pass</span><br><span class="line">       print(&#39;pass&#39;)</span><br><span class="line">   print(letter)</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">R</span><br><span class="line">pass</span><br><span class="line">o</span><br><span class="line">pass</span><br><span class="line">o</span><br><span class="line">m</span><br></pre></td></tr></table></figure>
+<h1 id="5-数据类型"><a href="#5-数据类型" class="headerlink" title="5.数据类型"></a>5.数据类型</h1><h2 id="数据类型—Number-数字"><a href="#数据类型—Number-数字" class="headerlink" title="数据类型—Number(数字)"></a>数据类型—Number(数字)</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#Python支持int, float, complex三种不同的数字类型</span><br><span class="line">a &#x3D; 3</span><br><span class="line">b &#x3D; 3.14</span><br><span class="line">c &#x3D; 3 + 4j</span><br><span class="line">print(type(a), type(b), type(c))</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;class &#39;int&#39;&gt; &lt;class &#39;float&#39;&gt; &lt;class &#39;complex&#39;&gt;</span><br></pre></td></tr></table></figure>
+<h2 id="数据类型—String（字符串）"><a href="#数据类型—String（字符串）" class="headerlink" title="数据类型—String（字符串）"></a>数据类型—String（字符串）</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#支持字符串拼接、截取等多种运算</span><br><span class="line">a &#x3D; &quot;Hello&quot;</span><br><span class="line">b &#x3D; &quot;Python&quot;</span><br><span class="line">print(&quot;a + b 输出结果：&quot;, a + b) #拼接</span><br><span class="line">print(&quot;a[1:4] 输出结果：&quot;, a[1:4]) #截取</span><br><span class="line">print(type(a))</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">a + b 输出结果： HelloPython</span><br><span class="line">a[1:4] 输出结果： ell</span><br><span class="line">&lt;class &#39;str&#39;&gt;</span><br></pre></td></tr></table></figure>
+<h2 id="数据类型—List（列表）"><a href="#数据类型—List（列表）" class="headerlink" title="数据类型—List（列表）"></a>数据类型—List（列表）</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#列表是写在方括号 [] 之间、用逗号分隔开的元素列表。</span><br><span class="line">#列表索引值以 0 为开始值，-1 为从末尾的开始位置。</span><br><span class="line">#列表里面也可以包含列表</span><br><span class="line">list &#x3D; [&#39;abcd&#39;, 786 , 2.23, &#39;runoob&#39;, 70.2]</span><br><span class="line">print(list[1:3])</span><br><span class="line"></span><br><span class="line">tinylist &#x3D; [123, &#39;runoob&#39;]</span><br><span class="line">print(list + tinylist)</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[786, 2.23]</span><br><span class="line">[&#39;abcd&#39;, 786, 2.23, &#39;runoob&#39;, 70.2, 123, &#39;runoob&#39;]</span><br></pre></td></tr></table></figure>
+<h2 id="数据类型—Tuple（元组）"><a href="#数据类型—Tuple（元组）" class="headerlink" title="数据类型—Tuple（元组）"></a>数据类型—Tuple（元组）</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#tuple与list类似，不同之处在于tuple的元素不能修改。tuple写在小括号里，元素之间用逗号隔开。</span><br><span class="line">#元组的元素不可变，但可以包含可变对象，如list。</span><br><span class="line">t1 &#x3D; (&#39;abcd&#39;, 786 , 2.23, &#39;runoob&#39;, 70.2)</span><br><span class="line">t2 &#x3D; (1, )</span><br><span class="line">t3 &#x3D; (&#39;a&#39;, &#39;b&#39;, [&#39;A&#39;, &#39;B&#39;])</span><br><span class="line">t3[2][0] &#x3D; &#39;X&#39;</span><br><span class="line">print(t3)</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">(&#39;a&#39;, &#39;b&#39;, [&#39;X&#39;, &#39;B&#39;])</span><br></pre></td></tr></table></figure>
+<h2 id="数据类型—dict（字典）"><a href="#数据类型—dict（字典）" class="headerlink" title="数据类型—dict（字典）"></a>数据类型—dict（字典）</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#字典是无序的对象集合，使用键-值（key-value）存储，具有极快的查找速度。</span><br><span class="line">#键(key)必须使用不可变类型。</span><br><span class="line">#同一个字典中，键(key)必须是唯一的。</span><br><span class="line">d &#x3D; &#123;&#39;Michael&#39;: 95, &#39;Bob&#39;: 75, &#39;Tracy&#39;: 85&#125;</span><br><span class="line">print(d[&#39;Michael&#39;])</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">95</span><br></pre></td></tr></table></figure>
+<h2 id="数据类型—set（集合）"><a href="#数据类型—set（集合）" class="headerlink" title="数据类型—set（集合）"></a>数据类型—set（集合）</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#set和dict类似，也是一组key的集合，但不存储value。由于key不能重复，所以，在set中，没有重复的key。</span><br><span class="line">#set是无序的，重复元素在set中自动被过滤。</span><br><span class="line">s &#x3D; set([1, 1, 2, 2, 3, 3])</span><br><span class="line">print(s)</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;1, 2, 3&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>人工智能</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>HEXO文章之-图片插入</title>
+    <url>/2020/12/21/HEXO%E6%96%87%E7%AB%A0%E4%B9%8B-%E5%9B%BE%E7%89%87%E6%8F%92%E5%85%A5/</url>
+    <content><![CDATA[<h1 id="第一步：安装插件，在hexo根目录打开Git-Bash-执行"><a href="#第一步：安装插件，在hexo根目录打开Git-Bash-执行" class="headerlink" title="第一步：安装插件，在hexo根目录打开Git Bash,执行"></a>第一步：安装插件，在hexo根目录打开Git Bash,执行</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install hexo-asset-image --save</span><br></pre></td></tr></table></figure>
+<h1 id="第二步：打开hexo的配置文件-config-yml"><a href="#第二步：打开hexo的配置文件-config-yml" class="headerlink" title="第二步：打开hexo的配置文件_config.yml"></a>第二步：打开hexo的配置文件_config.yml</h1><p>找到 post_asset_folder，把这个选项从false改成true</p>
+<a id="more"></a>
+<h1 id="第三步：打开"><a href="#第三步：打开" class="headerlink" title="第三步：打开"></a>第三步：打开</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x2F;node_modules&#x2F;hexo-asset-image&#x2F;index.js</span><br></pre></td></tr></table></figure>
+<p>将内容更换为下面的代码<br>（在此感谢Ericam_ 大神：<a href="https://blog.csdn.net/xjm850552586%EF%BC%89">https://blog.csdn.net/xjm850552586）</a></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#39;use strict&#39;;</span><br><span class="line">var cheerio &#x3D; require(&#39;cheerio&#39;);</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F; http:&#x2F;&#x2F;stackoverflow.com&#x2F;questions&#x2F;14480345&#x2F;how-to-get-the-nth-occurrence-in-a-string</span><br><span class="line">function getPosition(str, m, i) &#123;</span><br><span class="line">  return str.split(m, i).join(m).length;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">var version &#x3D; String(hexo.version).split(&#39;.&#39;);</span><br><span class="line">hexo.extend.filter.register(&#39;after_post_render&#39;, function(data)&#123;</span><br><span class="line">  var config &#x3D; hexo.config;</span><br><span class="line">  if(config.post_asset_folder)&#123;</span><br><span class="line">        var link &#x3D; data.permalink;</span><br><span class="line">    if(version.length &gt; 0 &amp;&amp; Number(version[0]) &#x3D;&#x3D; 3)</span><br><span class="line">       var beginPos &#x3D; getPosition(link, &#39;&#x2F;&#39;, 1) + 1;</span><br><span class="line">    else</span><br><span class="line">       var beginPos &#x3D; getPosition(link, &#39;&#x2F;&#39;, 3) + 1;</span><br><span class="line">    &#x2F;&#x2F; In hexo 3.1.1, the permalink of &quot;about&quot; page is like &quot;...&#x2F;about&#x2F;index.html&quot;.</span><br><span class="line">    var endPos &#x3D; link.lastIndexOf(&#39;&#x2F;&#39;) + 1;</span><br><span class="line">    link &#x3D; link.substring(beginPos, endPos);</span><br><span class="line"></span><br><span class="line">    var toprocess &#x3D; [&#39;excerpt&#39;, &#39;more&#39;, &#39;content&#39;];</span><br><span class="line">    for(var i &#x3D; 0; i &lt; toprocess.length; i++)&#123;</span><br><span class="line">      var key &#x3D; toprocess[i];</span><br><span class="line"> </span><br><span class="line">      var $ &#x3D; cheerio.load(data[key], &#123;</span><br><span class="line">        ignoreWhitespace: false,</span><br><span class="line">        xmlMode: false,</span><br><span class="line">        lowerCaseTags: false,</span><br><span class="line">        decodeEntities: false</span><br><span class="line">      &#125;);</span><br><span class="line"></span><br><span class="line">      $(&#39;img&#39;).each(function()&#123;</span><br><span class="line">        if ($(this).attr(&#39;src&#39;))&#123;</span><br><span class="line">            &#x2F;&#x2F; For windows style path, we replace &#39;\&#39; to &#39;&#x2F;&#39;.</span><br><span class="line">            var src &#x3D; $(this).attr(&#39;src&#39;).replace(&#39;\\&#39;, &#39;&#x2F;&#39;);</span><br><span class="line">            if(!&#x2F;http[s]*.*|\&#x2F;\&#x2F;.*&#x2F;.test(src) &amp;&amp;</span><br><span class="line">               !&#x2F;^\s*\&#x2F;&#x2F;.test(src)) &#123;</span><br><span class="line">              &#x2F;&#x2F; For &quot;about&quot; page, the first part of &quot;src&quot; can&#39;t be removed.</span><br><span class="line">              &#x2F;&#x2F; In addition, to support multi-level local directory.</span><br><span class="line">              var linkArray &#x3D; link.split(&#39;&#x2F;&#39;).filter(function(elem)&#123;</span><br><span class="line">                return elem !&#x3D; &#39;&#39;;</span><br><span class="line">              &#125;);</span><br><span class="line">              var srcArray &#x3D; src.split(&#39;&#x2F;&#39;).filter(function(elem)&#123;</span><br><span class="line">                return elem !&#x3D; &#39;&#39; &amp;&amp; elem !&#x3D; &#39;.&#39;;</span><br><span class="line">              &#125;);</span><br><span class="line">              if(srcArray.length &gt; 1)</span><br><span class="line">                srcArray.shift();</span><br><span class="line">              src &#x3D; srcArray.join(&#39;&#x2F;&#39;);</span><br><span class="line">              $(this).attr(&#39;src&#39;, config.root + link + src);</span><br><span class="line">              console.info&amp;&amp;console.info(&quot;update link as:--&gt;&quot;+config.root + link + src);</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;else&#123;</span><br><span class="line">            console.info&amp;&amp;console.info(&quot;no src attr, skipped...&quot;);</span><br><span class="line">            console.info&amp;&amp;console.info($(this));</span><br><span class="line">        &#125;</span><br><span class="line">      &#125;);</span><br><span class="line">      data[key] &#x3D; $.html();</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>
+<h1 id="第四步：现在就可以插入图片了，比如hexo-new-post-photo之后"><a href="#第四步：现在就可以插入图片了，比如hexo-new-post-photo之后" class="headerlink" title="第四步：现在就可以插入图片了，比如hexo new post photo之后"></a>第四步：现在就可以插入图片了，比如hexo new post photo之后</h1><p>就在source/_posts生成photo.md文件和photo文件夹，我们把要插入的图片复制到photo文件夹内，<br>在photo.md文件里面按markdown的标准写,（我的文件名是head.jpeg）比如</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">![这是代替图片的文字，随便写](head.jpeg)</span><br></pre></td></tr></table></figure>
+<p>参考链接：<a href="https://www.jianshu.com/p/f72aaad7b852">https://www.jianshu.com/p/f72aaad7b852</a></p>
+]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>英语语法2</title>
+    <url>/2020/12/31/%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%952/</url>
+    <content><![CDATA[<p>测试图片<br> <img src="/2020-12-31-%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%952/1.jpg" alt="www"></p>
+]]></content>
+      <categories>
+        <category>英语</category>
+      </categories>
+      <tags>
+        <tag>语法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《苍梧谣》</title>
+    <url>/2020/11/28/%E3%80%8A%E8%8B%8D%E6%A2%A7%E8%B0%A3%E3%80%8B/</url>
+    <content><![CDATA[<h1 id="《苍梧谣》"><a href="#《苍梧谣》" class="headerlink" title="《苍梧谣》"></a>《苍梧谣》</h1><blockquote class="blockquote-center">
+            <i class="fa fa-quote-left"></i>
+            <p>乾无奈，芊芊锁链 </p>
+
+            <i class="fa fa-quote-right"></i>
+          </blockquote>
+<p>天！<br>休使圆蟾照客眠。<br>人何在？<br>桂影自婵娟。</p>
+]]></content>
+      <categories>
+        <category>诗词</category>
+      </categories>
+      <tags>
+        <tag>文章</tag>
+        <tag>诗词</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/11/26/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>英语例句</title>
     <url>/2020/12/04/%E8%8B%B1%E8%AF%AD/</url>
     <content><![CDATA[<h1 id="1号"><a href="#1号" class="headerlink" title="1号"></a>1号</h1><p>Now the nation’top patent court appears comlpetely reay to scale back on business-method patents, which have been controversial ever since they were first authorized 10 years ago. </p>
@@ -429,8 +441,8 @@
         <category>英语</category>
       </categories>
       <tags>
-        <tag>英语</tag>
         <tag>语法</tag>
+        <tag>英语</tag>
       </tags>
   </entry>
 </search>
