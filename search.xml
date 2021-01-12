@@ -239,6 +239,44 @@
       </tags>
   </entry>
   <entry>
+    <title>英语语法2</title>
+    <url>/2020/12/31/%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%952/</url>
+    <content><![CDATA[<h1 id="并列句"><a href="#并列句" class="headerlink" title="并列句"></a>并列句</h1><ul>
+<li><p>平行: and, not only…but also..</p>
+</li>
+<li><p>转折: but, yet, while, whereas</p>
+</li>
+<li><p>选择: or</p>
+</li>
+<li><p>因果: for, so(有1无2)</p>
+</li>
+<li><p>递进: then</p>
+<h1 id="逻辑关系词"><a href="#逻辑关系词" class="headerlink" title="逻辑关系词"></a>逻辑关系词</h1><p>只要上下句之间有逻辑关系，就一定要有逻辑关系词<br>逻辑关系词(连，副，介词短语)</p>
+</li>
+<li><p>平行: similarly, equally, likewise, at the same time,in the meanwhile</p>
+</li>
+<li><p>转折: however, nevertheless, on the contrary, conversely, unexpectedly, unfortunately, by contrast</p>
+</li>
+<li><p>选择: alternatively</p>
+</li>
+<li><p>因果:therefore, thus, consequently, as a result</p>
+</li>
+<li><p>递进: besides, furthermore, moreover, additionally, subsquently, in addition</p>
+<h1 id="连词好其它逻辑关系词的区别在于"><a href="#连词好其它逻辑关系词的区别在于" class="headerlink" title="连词好其它逻辑关系词的区别在于"></a>连词好其它逻辑关系词的区别在于</h1><p>连词的前面有无句号均可，而其他逻辑关系词前面，adding neither 句号,or and.</p>
+</li>
+</ul>
+<ol>
+<li>I an claimed changeable like water, and by contrast, my clarity keeps consistent.</li>
+</ol>
+]]></content>
+      <categories>
+        <category>英语</category>
+      </categories>
+      <tags>
+        <tag>语法</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Python基础</title>
     <url>/2020/12/19/Python%E5%9F%BA%E7%A1%80/</url>
     <content><![CDATA[<h1 id="1-基础操作"><a href="#1-基础操作" class="headerlink" title="1.基础操作"></a>1.基础操作</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">age &#x3D; 20  		# 声明一个变量age 用来存储一个数字 20</span><br><span class="line">1+1		        # 基础数学加法</span><br><span class="line">print(&#39;Hello World!&#39;)   # 打印Hello World!</span><br></pre></td></tr></table></figure>
@@ -297,34 +335,318 @@
       </tags>
   </entry>
   <entry>
-    <title>英语语法2</title>
-    <url>/2020/12/31/%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%952/</url>
-    <content><![CDATA[<p>测试图片<br> <img src="/2020-12-31-%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%952/1.jpg" alt="www"></p>
+    <title>English_Grammar_4</title>
+    <url>/2021/01/03/English-Grammar-4/</url>
+    <content><![CDATA[<h1 id="时间状语从句"><a href="#时间状语从句" class="headerlink" title="时间状语从句"></a>时间状语从句</h1><ul>
+<li>when=while=as:当什么的时候<br>当while 翻译为此的时候，后面一定跟进行时态</li>
+<li>before</li>
+<li>after</li>
+<li>since:自从，主句必用现在完成时<br>I have fallen in love with you since i met you.</li>
+<li>the moment=as soon as:一什么就</li>
+<li>by the time: 到什么为止</li>
+<li>until: 直到。。。才</li>
+<li>not…until: 直到。。。才</li>
+</ul>
+<ol>
+<li>状语从句的时态问题<br>eg:</li>
+</ol>
+<ul>
+<li>When love comes, l will hold her hands.<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">在所有状语从句中如果主句的动作和从句的动作都没发生的话，主句用一般将来时，从句用一般现在时表示将来。</span><br></pre></td></tr></table></figure></li>
+<li>When love came, l failed to hold her hands.</li>
+</ul>
+<ol>
+<li>区别until和not..until</li>
+</ol>
+<ul>
+<li>l will <del>wait</del> here until you come.</li>
+<li>l will <del>not</del> leave until you come.<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">看主句的谓语动词是延续性动词还是瞬间动词，如果是延续性动词，就用until，如果是瞬间动词，就用not...until  </span><br></pre></td></tr></table></figure>
+I didn’trealize the greatness of mothers until i grew up.</li>
+</ul>
+<ol>
+<li>省略<br>when <del>i was</del> a kid, i enjoyed singing songs.</li>
+</ol>
+<hr>
+<h1 id="地点状语从句"><a href="#地点状语从句" class="headerlink" title="地点状语从句"></a>地点状语从句</h1><p>常用引导词：where</p>
+<ul>
+<li>The kind of trees grow well in moist places.<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">moist 潮湿的，湿润的</span><br></pre></td></tr></table></figure>
+in moist places = where it is moist</li>
+<li>做地点状语的通常都是介词短语，很少是从句。</li>
+</ul>
+<hr>
+<h1 id="原因状语从句"><a href="#原因状语从句" class="headerlink" title="原因状语从句"></a>原因状语从句</h1><ol>
+<li>常规引导词<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">because</span><br><span class="line">as</span><br><span class="line">since</span><br><span class="line">in that</span><br><span class="line">seeing that</span><br><span class="line">consider that</span><br><span class="line">now that</span><br><span class="line">given that</span><br></pre></td></tr></table></figure></li>
+<li>连词<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">for</span><br></pre></td></tr></table></figure></li>
+<li>介词短语<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">because of</span><br><span class="line">due to</span><br><span class="line">owing to</span><br><span class="line">thanks to</span><br><span class="line">for the sack of</span><br><span class="line">as a result of</span><br></pre></td></tr></table></figure>
+
+
+</li>
+</ol>
+<p>eg:</p>
+<ul>
+<li>He had a car accident because he was carless.(状语随便放)</li>
+<li>He had a car accident for was careless.(连词必须放中间，放前面或后面和空气连吗？)</li>
+<li>He had a car accident because of his carelessness.(介词后面必须跟名词)</li>
+</ul>
+<hr>
+<h1 id="目的状语从句"><a href="#目的状语从句" class="headerlink" title="目的状语从句"></a>目的状语从句</h1><ol>
+<li>动词不定式<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">to</span><br><span class="line">in order to</span><br><span class="line">so as to</span><br></pre></td></tr></table></figure>
+动词不定式表目的，后面跟动词原形</li>
+<li>引导词<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">so that(表目的，放句末)</span><br><span class="line">in order that</span><br></pre></td></tr></table></figure>
+</li>
+</ol>
+<ul>
+<li>We will ascend higher in order to overlook farther.(动词不定式表目的)</li>
+<li>further 表示抽象的远，比如心与心之间的距离远。</li>
+<li>In order that we overlook farther we will ascend higher.(状语从句引导词)</li>
+</ul>
+<hr>
+<h1 id="结果状语从句"><a href="#结果状语从句" class="headerlink" title="结果状语从句"></a>结果状语从句</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">so...that(so是副词，后跟形容词)&#x3D;very</span><br><span class="line">such...that(such是形容词，后跟名词)</span><br></pre></td></tr></table></figure>
+<p>很简单，和汉语语序完全一样</p>
+<p>eg:<br>It feels so hot today that i wear my dress.<br>My mother proves so kind that se is respected by all her staff.</p>
+<h1 id="很有用"><a href="#很有用" class="headerlink" title="很有用"></a>很有用</h1><ul>
+<li>so…that(so是副词，后跟形容词)=very</li>
+<li>只要在作文中见到名词，都可以有意识的加上同位语.</li>
+</ul>
+<hr>
+<h1 id="让步状语从句-虽然…尽管"><a href="#让步状语从句-虽然…尽管" class="headerlink" title="让步状语从句(虽然…尽管)"></a>让步状语从句(虽然…尽管)</h1><p>一种委婉的语气，话不说满，往后退一步</p>
+<h2 id="引导词"><a href="#引导词" class="headerlink" title="引导词"></a>引导词</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">although</span><br><span class="line">though</span><br><span class="line">even though</span><br><span class="line">even if</span><br><span class="line">as</span><br><span class="line">while(只能放在句首，不能放在句中)</span><br></pre></td></tr></table></figure>
+<h3 id="while"><a href="#while" class="headerlink" title="while"></a>while</h3><p>三个意思：</p>
+<ul>
+<li><p>翻译为但是，放句中。</p>
+</li>
+<li><p>翻译为当…时候，后面必须跟进行时态。</p>
+<h3 id="as的部分倒装"><a href="#as的部分倒装" class="headerlink" title="as的部分倒装"></a>as的部分倒装</h3></li>
+<li><p>As i seem ugly, i keep gentle.</p>
+</li>
+<li><p>Ugly i seem, i keep gentel.<br>as 引导的让步状语从句，从句的表语可以放在句首构成部分倒装。</p>
+</li>
+<li><p>Raising pets can cultivate the loving heart fo kids although they might be injurious to their familier or neighbors.</p>
+</li>
+</ul>
+<hr>
+<h1 id="方式状语从句-好像-似乎"><a href="#方式状语从句-好像-似乎" class="headerlink" title="方式状语从句(好像,似乎)"></a>方式状语从句(好像,似乎)</h1><h2 id="引导词-1"><a href="#引导词-1" class="headerlink" title="引导词"></a>引导词</h2><ol>
+<li>常规引导词（后面是句子）<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">as</span><br><span class="line">the way</span><br><span class="line">as if&#x2F;though</span><br></pre></td></tr></table></figure>
+好像.似乎</li>
+<li>介词短语<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">by</span><br><span class="line">through</span><br><span class="line">by means of</span><br><span class="line">in...way&#x2F;manner</span><br></pre></td></tr></table></figure>
+eg:<br>She looks as if she were made of ice.</li>
+</ol>
+<hr>
+<h1 id="条件状语从句"><a href="#条件状语从句" class="headerlink" title="条件状语从句"></a>条件状语从句</h1><h2 id="引导词-2"><a href="#引导词-2" class="headerlink" title="引导词"></a>引导词</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">if</span><br><span class="line">unless(反面的条件&#x3D;if not)</span><br><span class="line">suppose that</span><br><span class="line">supposing that</span><br><span class="line">provided that</span><br><span class="line">as long as</span><br><span class="line">so long as</span><br></pre></td></tr></table></figure>
+<p>都翻译成如果<br>eg:<br>As long as there seems a ghost of hope, i will never give up.</p>
+<hr>
+<h1 id="比较状语从句"><a href="#比较状语从句" class="headerlink" title="比较状语从句"></a>比较状语从句</h1><h1 id="引导词-3"><a href="#引导词-3" class="headerlink" title="引导词"></a>引导词</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">as... as(原级的比较)</span><br><span class="line">than(比较级的比较)</span><br></pre></td></tr></table></figure>
+<p>you are as beautiful as i <del>am beautiful</del>.(后面的am beautiful省略)</p>
+<h1 id="写作的使用"><a href="#写作的使用" class="headerlink" title="写作的使用"></a>写作的使用</h1><p>作文中任何一句话的旁边都可以给他加一个状语的成分把句子拉长。</p>
+<ul>
+<li>I had loved you deeply since i met you.</li>
+<li>I love you for my whole life.</li>
+<li>I love you in my deep mind.</li>
+<li>I love you although you not make out the romance at all times.</li>
+</ul>
 ]]></content>
       <categories>
         <category>英语</category>
       </categories>
       <tags>
         <tag>语法</tag>
+        <tag>英语</tag>
       </tags>
   </entry>
   <entry>
-    <title>《苍梧谣》</title>
-    <url>/2020/11/28/%E3%80%8A%E8%8B%8D%E6%A2%A7%E8%B0%A3%E3%80%8B/</url>
-    <content><![CDATA[<h1 id="《苍梧谣》"><a href="#《苍梧谣》" class="headerlink" title="《苍梧谣》"></a>《苍梧谣》</h1><blockquote class="blockquote-center">
-            <i class="fa fa-quote-left"></i>
-            <p>乾无奈，芊芊锁链 </p>
-
-            <i class="fa fa-quote-right"></i>
-          </blockquote>
-<p>天！<br>休使圆蟾照客眠。<br>人何在？<br>桂影自婵娟。</p>
+    <title>English_Grammar_3</title>
+    <url>/2021/01/01/English-Grammar-3/</url>
+    <content><![CDATA[<ul>
+<li>Life was like a box of chocolates, you never know what you’re gonna get. (生命就像一盒巧克力，结果往往出人意料) —《阿甘正传》<h1 id="名词性从句"><a href="#名词性从句" class="headerlink" title="名词性从句"></a>名词性从句</h1><a href="http://www.gaosan.com/gaokao/248228.html">插曲</a><br>名词可以做<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">主语，宾语，表语，同位语</span><br></pre></td></tr></table></figure>
+因此：名词在句子中能充当的成分，从句都能充当。</li>
+</ul>
+<ol>
+<li>The movie looks terrific.<br>What i saw looks terrific.</li>
+<li>I admire his mother.<br>I admire what she said.</li>
+<li>Gump is a man.<br>Gump is who we should learn from.</li>
+<li>I enjoy the part, the begining.(同位语)<br>I enjoy the part that the bird is flying.(同位语从句)<br>同位语： 解释名词</li>
+</ol>
+<ul>
+<li>I like Eason, a well-known singer from xianggamg</li>
+<li>Persistence ，<del>an active mentality,</del> play a critical role in the glories of all children and adults.</li>
+<li>只要在作文中见到名词，都可以有意识的加上同位语.<br>同位语：<br>名词，代词，非谓语成分，从句</li>
+</ul>
+<h1 id="名词性从句的引导词"><a href="#名词性从句的引导词" class="headerlink" title="名词性从句的引导词"></a>名词性从句的引导词</h1><ul>
+<li><del>That</del> he has got divorced is my fault.</li>
+<li><del>Whether</del>Has he got divorced is obvious.(has 放到he 后)</li>
+<li>who will he marry is a secret.<br>(will 放到he 后)<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">按从句类型分</span><br></pre></td></tr></table></figure>
+that: 从句是陈述句。or that 在从句中不充当任何成分。<br>whether: 当从句是一般疑问句时。并且whether在从句中不充当任何成分。<br>所有的特殊疑问词: 当从句是特殊疑问句时。</li>
+<li>从句一定是引导词加陈述句。</li>
+</ul>
+<hr>
+<h1 id="定语从句"><a href="#定语从句" class="headerlink" title="定语从句"></a>定语从句</h1><h2 id="什么是定语？"><a href="#什么是定语？" class="headerlink" title="什么是定语？"></a>什么是定语？</h2><p>…的+名词。(..的)</p>
+<h2 id="定于的成分"><a href="#定于的成分" class="headerlink" title="定于的成分"></a>定于的成分</h2><ol>
+<li>形容词修饰名词</li>
+</ol>
+<ul>
+<li>The innocent nightingale died.</li>
+<li>The nightingale brave and innocent died.</li>
+</ul>
+<ol>
+<li>名词修饰名词</li>
+</ol>
+<ul>
+<li>The singing of the nightingale can make the rose bloom.</li>
+</ul>
+<ol>
+<li>介词短语修饰名词</li>
+</ol>
+<ul>
+<li>The nightingale out of the window heard the sighs of the youngster.</li>
+</ul>
+<ol>
+<li>非谓语动词修饰名词</li>
+</ol>
+<ul>
+<li>The singing nightingale lost his life.</li>
+</ul>
+<ol>
+<li>从句修饰名词</li>
+</ol>
+<ul>
+<li><h2 id="定语的位置"><a href="#定语的位置" class="headerlink" title="定语的位置"></a>定语的位置</h2>短前长后</li>
+<li>当一个单词修饰名词的时候，定语放前面。</li>
+<li>当多个单词修饰名词的时候，定语放后面。<br>This is a fiction about a nightingale and a rose.<br>The youngster grasping romance left the party of the prince.<br>The rejected boy looks pitiful.(当过去分词修饰名词时，即使只有一个单词也放在名词后面。)<br>I have something important to tell you.(当形容词修饰不定代词的时候，即使只有一个单词也放在名词后。)<h2 id="定语从句的构成"><a href="#定语从句的构成" class="headerlink" title="定语从句的构成"></a>定语从句的构成</h2>名词(先行词)+引导词+句子<h2 id="定语从句的引导词"><a href="#定语从句的引导词" class="headerlink" title="定语从句的引导词"></a>定语从句的引导词</h2>定语从句的引导词是按先行词的种类分的类，共5类：</li>
+<li>人：who whom whose</li>
+<li>物：that which whose</li>
+<li>时间：that which when</li>
+<li>地点：that which where</li>
+<li>原因：that which why<br>eg:<br>I will never foget the day when l met you.(when 是副词，不做从句中的主宾)<br>I will never foget the day that we spent.(that 是动词，做从句中的主宾)<br>You had better some reason why you are late.<br>You ad better have some reason that sounds pefect.<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">先行词和</span><br><span class="line">引导词在从句中能够充当的成分</span><br><span class="line">共同决定了引导词。(注：本节唯一重点)</span><br></pre></td></tr></table></figure>
+new 分类:<br>按引导词本身的词性分类，3类：</li>
+<li>代词（在从句中一定要充当主语或宾语）：who whom that which</li>
+<li>副词（在从句中不能充当任何主干成分）：<br>where when why</li>
+<li>形容词（在从句中修饰离他最近的那个名词）：<br>whose</li>
+</ul>
+<hr>
+<p>eg:</p>
+<ol>
+<li>Buildings whose roof are round look berutiful.</li>
+<li>It has been validated by numerous facts that glories belong to those whih dreams.<h2 id="定语从句的特殊用法"><a href="#定语从句的特殊用法" class="headerlink" title="定语从句的特殊用法"></a>定语从句的特殊用法</h2></li>
+<li>that 作宾语可省略，但自己写作时不要省略。<br>在分析长难句时，如果见到有两个名词或代词连在一起，中间没有被连词或标点符号隔开，通常都是省略了that 的定语从句。</li>
+</ol>
+<hr>
+<h1 id="状语从句"><a href="#状语从句" class="headerlink" title="状语从句"></a>状语从句</h1><h2 id="形容词和副词能够充当的成分？"><a href="#形容词和副词能够充当的成分？" class="headerlink" title="形容词和副词能够充当的成分？"></a>形容词和副词能够充当的成分？</h2><ol>
+<li>形容词：</li>
+</ol>
+<ul>
+<li>放在系动词后面做表语</li>
+<li>放在名词前做定语（修饰名词）</li>
+</ul>
+<ol>
+<li>副词：</li>
+</ol>
+<ul>
+<li>修饰实义动词（状语）</li>
+<li>修饰形容词（状语）</li>
+<li>修饰副词（状语）</li>
+<li>修饰句子（状语）</li>
+</ul>
+<h2 id="什么是状语？"><a href="#什么是状语？" class="headerlink" title="什么是状语？"></a>什么是状语？</h2><p>在一句话当中修饰除名词之外所有的成分的成分。</p>
+<ul>
+<li>介词短语</li>
+<li>副词</li>
+<li>非谓语动词 </li>
+<li>从句</li>
+<li>副词短语<h2 id="状语的位置"><a href="#状语的位置" class="headerlink" title="状语的位置"></a>状语的位置</h2>随便放<h2 id="状语从句的分类"><a href="#状语从句的分类" class="headerlink" title="状语从句的分类"></a>状语从句的分类</h2>见下章</li>
+</ul>
+<ol>
+<li>时间状语从句</li>
+</ol>
+<ul>
+<li>when=while=as:当什么的时候<br>当while 翻译为此的时候，后面一定跟进行时态</li>
+<li>before</li>
+<li>after</li>
+<li>since:自从，主句必用现在完成时<br>I have fallen in love with you since i met you.</li>
+<li>the moment=as soon as:一什么就</li>
+<li>by the time: 到什么为止</li>
+<li>until: 直到。。。才</li>
+<li>not…until: 直到。。。才</li>
+</ul>
+<ol>
+<li>状语从句的时态问题<br>eg:</li>
+</ol>
+<ul>
+<li>When love comes, l will hold her hands.<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">在所有状语从句中如果主句的动作和从句的动作都没发生的话，主句用一般将来时，从句用一般现在时表示将来。</span><br></pre></td></tr></table></figure></li>
+<li>When love came, l failed to hold her hands.</li>
+</ul>
+<ol>
+<li>区别until和not..until</li>
+</ol>
+<ul>
+<li>l will <del>wait</del> here until you come.</li>
+<li>l will <del>not</del> leave until you come.<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">看主句的谓语动词是延续性动词还是瞬间动词，如果是延续性动词，就用until，如果是瞬间动词，就用not...until  </span><br></pre></td></tr></table></figure>
+I didn’trealize the greatness of mothers until i grew up.</li>
+</ul>
+<ol>
+<li>省略<br>when <del>i was</del> a kid, i enjoyed singing songs.</li>
+</ol>
 ]]></content>
       <categories>
-        <category>诗词</category>
+        <category>英语</category>
       </categories>
       <tags>
-        <tag>文章</tag>
-        <tag>诗词</tag>
+        <tag>语法</tag>
+        <tag>英语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>English_Grammar_5</title>
+    <url>/2021/01/11/English-Grammar-5/</url>
+    <content><![CDATA[<h1 id="强调句型"><a href="#强调句型" class="headerlink" title="强调句型"></a>强调句型</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">It is ... that ...</span><br></pre></td></tr></table></figure>
+<ul>
+<li>强调句型可以强调除谓语之外的所有成分。</li>
+<li>跟过去式有关系都写成was，其它则is<br>eg:<br>我昨天在街上遇到了我的旧情人。</li>
+<li>I met my old flame in the street yesterday.</li>
+<li>It was i that my old flame in the street yesterday.</li>
+<li>It was yesterday that i met my old flame in the street.</li>
+<li>It is to realize my dream that i am considering weather l should depart  with my boy friend.</li>
+<li>There remain abundant element to account for the issue.<h2 id="写作"><a href="#写作" class="headerlink" title="写作"></a>写作</h2></li>
+<li>作文中所有句子都可以写成强调句型。</li>
+<li>So far, you have never realized that because you had unfavorable friends,you falled to go to your dreamful universty</li>
+<li>So far, you have never realized that it was because you had unfavorable friends that you falled to go to your dreamful university.</li>
+</ul>
+<hr>
+<h1 id="倒装"><a href="#倒装" class="headerlink" title="倒装"></a>倒装</h1><h2 id="什么是倒装？"><a href="#什么是倒装？" class="headerlink" title="什么是倒装？"></a>什么是倒装？</h2><p>倒装就是把一句话写成一般疑问句的形式，也就是给一句话价格助动词或吧be动词放在句首。</p>
+<h2 id="倒装用法"><a href="#倒装用法" class="headerlink" title="倒装用法"></a>倒装用法</h2><h3 id="否定句放句首用倒装"><a href="#否定句放句首用倒装" class="headerlink" title="否定句放句首用倒装"></a>否定句放句首用倒装</h3><ul>
+<li>I can handly speak Japanese.</li>
+<li>Handly can i speak Japanese.</li>
+<li>By no means do i love you.</li>
+</ul>
+<hr>
+<h1 id="虚拟语气"><a href="#虚拟语气" class="headerlink" title="虚拟语气"></a>虚拟语气</h1><ul>
+<li>虚拟语气表示与事实相反或语气委婉。<h2 id="一般用法"><a href="#一般用法" class="headerlink" title="一般用法"></a>一般用法</h2></li>
+<li>if引导的条件状语从句</li>
+<li>If you are a tear in my eyes, i will never shed it</li>
+<li>If i was a dog last night, i could sleep with you.</li>
+<li>那如何把一个条件状语从句变成虚拟语气呢？</li>
+<li>句子时态往后退一步。并且在be动词的过去式只有were</li>
+<li>could=would=might<h2 id="特殊用法"><a href="#特殊用法" class="headerlink" title="特殊用法"></a>特殊用法</h2></li>
+<li>以下情况用”should + v”表示虚拟，并且should可以省略。<br>以防：in case, lest, for fear that<br>命：order, direct, command<br>贱：advise, suggest, propose<br>要求：ask, request, demand, require<br>用虚拟<br>是必要的：It is necessary/ipmortant that</li>
+<li>In case that you should develop fatal infections, you had better stay at home.<h1 id="情态动词"><a href="#情态动词" class="headerlink" title="情态动词"></a>情态动词</h1></li>
+<li>表明说话人主观态度的词汇。</li>
+<li>情态动词后跟动词原形</li>
+<li>情态动词就相当于助动词</li>
+</ul>
+<ol>
+<li>情态动词表示对现在和将来的推测</li>
+</ol>
+<ul>
+<li>He must have been self-biased in his university.（一定做过某事）<br>否定：can’t have down</li>
+<li>You need not have shown your love in this way.（本没必要做某事但是做了）</li>
+<li>I could have became a prominent poet.（本能够做某事但是没有做,表示遗憾）</li>
+<li>We should have got married if there exists a chance.（本应该做却没有做）</li>
+</ul>
+]]></content>
+      <categories>
+        <category>英语</category>
+      </categories>
+      <tags>
+        <tag>语法</tag>
+        <tag>英语</tag>
       </tags>
   </entry>
   <entry>
@@ -346,26 +668,27 @@
 ]]></content>
   </entry>
   <entry>
-    <title>英语例句</title>
-    <url>/2020/12/04/%E8%8B%B1%E8%AF%AD/</url>
-    <content><![CDATA[<h1 id="1号"><a href="#1号" class="headerlink" title="1号"></a>1号</h1><p>Now the nation’top patent court appears comlpetely reay to scale back on business-method patents, which have been controversial ever since they were first authorized 10 years ago. </p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">情态动词不能作谓语。</span><br><span class="line">&#96;&#96;&#96; </span><br></pre></td></tr></table></figure>
-<p>所有系动词都可以替换be动词</p>
-<pre><code>
-</code></pre>
+    <title>《苍梧谣》</title>
+    <url>/2020/11/28/%E3%80%8A%E8%8B%8D%E6%A2%A7%E8%B0%A3%E3%80%8B/</url>
+    <content><![CDATA[<h1 id="《苍梧谣》"><a href="#《苍梧谣》" class="headerlink" title="《苍梧谣》"></a>《苍梧谣》</h1><blockquote class="blockquote-center">
+            <i class="fa fa-quote-left"></i>
+            <p>乾无奈，芊芊锁链 </p>
+
+            <i class="fa fa-quote-right"></i>
+          </blockquote>
+<p>天！<br>休使圆蟾照客眠。<br>人何在？<br>桂影自婵娟。</p>
 ]]></content>
       <categories>
-        <category>英语</category>
+        <category>诗词</category>
       </categories>
       <tags>
-        <tag>长难句</tag>
-        <tag>例句</tag>
-        <tag>英语</tag>
+        <tag>文章</tag>
+        <tag>诗词</tag>
       </tags>
   </entry>
   <entry>
-    <title>英语基本结构</title>
-    <url>/2020/12/04/%E8%8B%B1%E8%AF%AD%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84/</url>
+    <title>英语语法1</title>
+    <url>/2020/12/04/%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%951/</url>
     <content><![CDATA[<p>注：请注意本文顺序排列。<br>再注：其实英语要注意的只有两个点，不过我才不告诉你呢，瞎猜去吧。</p>
 <h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>一句话当中有几个动词？</p>
 <a id="more"></a>
@@ -376,66 +699,20 @@
 <li>be</li>
 <li>感官动词<br>look:seem appear<br>small:n气味<br>taste:n喜<br>sound:n声音，a甜美的<br>feel</li>
 <li>变化<br>become get turn grow fall</li>
-<li>保持<br>keep stay remain stand<h2 id="主谓双宾"><a href="#主谓双宾" class="headerlink" title="主谓双宾"></a>主谓双宾</h2></li>
+<li>保持<br>keep stay remain stand exist</li>
+<li>证明<br>prove<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">情态动词不能作谓语。</span><br><span class="line">&#96;&#96;&#96; </span><br></pre></td></tr></table></figure>
+所有系动词都可以替换be动词<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">## 主谓双宾</span><br><span class="line">* I bought him a dog.</span><br><span class="line">## 主谓宾宾补</span><br><span class="line">宾 宾补&#x3D;&#x3D;主（谓）宾</span><br><span class="line">宾补修饰宾语&#x3D;美丽的你</span><br><span class="line">* You should keep the room clean and tidy.</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">---</span><br><span class="line"># 谓语</span><br><span class="line">有*时态*的*实义动词*和*系动词*</span><br><span class="line">## __一句话当中动词能不能多?__。。。不能</span><br><span class="line">1. 谓语只能是动词。不能是名词，也不能是介词。。。</span><br><span class="line">1. 动词只能做谓语。不能做主语，宾语，表语。</span><br><span class="line">* ~~Laugh~~ at others is my hobby.</span><br><span class="line">* I enjoy ~~see~~ movies.</span><br><span class="line">* My dream is ~~become~~ a rich lady.</span><br><span class="line">summer:谓语&#x3D;动词</span><br><span class="line">一句话当中动词不能多，且只能作谓语，所有不做谓语的动词，都要变成非谓语。</span><br><span class="line">注：以上三个句子是错的。</span><br><span class="line">## 练习</span><br><span class="line">1. 他穿上外衣，锁上门，离开了家。</span><br><span class="line">He **putting** on his jacket, **locking** the door, ***left*** home.</span><br><span class="line">1. 大熊猫是熊科中最罕见的成员，主要生活在中国西南部的森林里。</span><br><span class="line">Pandas keep the rarest members in bear family, mainly living in the forest of Chinese Southwest.</span><br><span class="line">1. 长江流经不同的生态体系，是诸多濒危物种的栖息地，灌溉了中国5&#x2F;1的土地。</span><br><span class="line">Changjiang River __flowing__ through diverse ecological systems, ___keeps___ the habitat of a sea of endangered species, __irrigating__ Chinese 1&#x2F;5 land.</span><br><span class="line">1. 我爱你，你爱我。</span><br><span class="line">I loveing you, you love i.(独立主格)</span><br><span class="line">1. 冬天来了，春天就不远了。</span><br><span class="line">Winter approaching, spring will be around the corner.</span><br><span class="line">1. 我是一个老师，我喜欢唱歌。</span><br><span class="line">~~I~~ Being a teacher, i have passion for singing songs.(分词作状语)</span><br><span class="line">注：</span><br><span class="line">1. 世界上为什么会有独立主格?</span><br><span class="line">英语本来是极简单的，**都是单句**，只有主谓宾，主谓宾，每句写完都要点句号，而太简单的东西无法承载历史，语言学家们为了增加英语复杂度。，即把多句话合并，语言学家采用了</span><br><span class="line">1. 分词作状语和独立主格完全是一回事，只不过独立主格的主语不一致不能省略，分词作状语主语一致，能省略，仅此而已。</span><br><span class="line">* 独立主格（非谓语）</span><br><span class="line">n句话写成一句话，留一个最重要的一个动词做谓语，其它动词都变成非谓语。</span><br><span class="line">* 并列句</span><br><span class="line">加连词</span><br><span class="line">* 主从句</span><br><span class="line">## **一句话中，动词能不能少？**。。。绝对不能</span><br><span class="line">动词就是谓语，谓语就是动词。</span><br><span class="line">* Your mather must *be* very beautiful.</span><br><span class="line">* I am *against* you.</span><br><span class="line">summer: 当一句话需要动词而又没有动词的时候，永远都加be动词，并且be没意思。</span><br><span class="line">## 谓语的总结</span><br><span class="line">一句话当中，有且只能有一个有时态的实义动词或系动词，并且充当谓语。</span><br><span class="line"></span><br><span class="line">---</span><br><span class="line"></span><br><span class="line"># 主语</span><br><span class="line">## 成分：名词，代词，非谓语动词，从句(引导词+句子)</span><br><span class="line">* ~~Handsome and strong are his nature.~~</span><br><span class="line">* Handsomeness and strength are his nature.(名词作主语)</span><br><span class="line">* Being handsome and strong is his nature.(非谓语做主语)</span><br><span class="line">需要动词而又没有动词，永远都加be动词。</span><br><span class="line"></span><br><span class="line">## 一句话当中主语能不能少？</span><br><span class="line">祈使句不是没有主语，而是为了表达说话时强烈的语气而把主语省略了。</span><br><span class="line">**绝对不能**</span><br><span class="line">那句子每主语怎么办？</span><br><span class="line">* 北京很冷。(没主语)</span><br><span class="line">1.加it作为主要： 必须与天气，温度，时间有关系。</span><br><span class="line">机舱里很闷。</span><br><span class="line">It feels exceedingly hot in the cabin.</span><br><span class="line">* 河南有很多人。</span><br><span class="line">2.there be 句型，听到“有”的时候使用。</span><br><span class="line">(be 太老，exist&#x2F;seem&#x2F;remain)</span><br><span class="line">*有很多人喜欢我。*</span><br><span class="line">There exist a host of undergraduates being fascinated with with me.(写作文单词越*准确*得分越高)</span><br><span class="line">* 必须指出自信很重要</span><br><span class="line">3.被动：当听到一句话没有主语或人称代词作主语的时候都可以考虑写成被动。</span><br><span class="line">Persistence must be pointed out outstandingly crusial.</span><br><span class="line">*越来越多的人认为过度捕捞很严重。*</span><br><span class="line">more than 后面接形容词或福词都翻译成非常</span><br><span class="line">Overfishing is claimed (think,consider) more than fearful (serious) by an increasing amount of professors.</span><br><span class="line">### 三种情况无被动</span><br><span class="line">1. 动词后有介词的无被动。</span><br><span class="line">1. 系动词无被动</span><br><span class="line">1. have 翻译为有的意思时无被动</span><br><span class="line">1. 不到万不得已，不要使用人称代词作主语。</span><br><span class="line">*如果有梦想，就应该会成功。*</span><br><span class="line">汉语式：If you have a dream, you will be success.</span><br><span class="line">英语：If there exists a dream, glories are supposed to be achieved.</span><br><span class="line">glorie n 荣耀</span><br><span class="line">笨妹妹，多用高级词，开始可能很慢，习惯就快了。</span><br><span class="line">---</span><br><span class="line"># 宾语</span><br><span class="line">## 成分&#x3D;主语</span><br></pre></td></tr></table></figure>
+名词，代词，非谓语动词，从句<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line"># 表语</span><br><span class="line">## 成分</span><br></pre></td></tr></table></figure>
+名词，代词，非谓语动词，从句，形容词，介词短语<pre><code></code></pre>
+</li>
 </ol>
-<ul>
-<li>I bought him a dog.<h2 id="主谓宾宾补"><a href="#主谓宾宾补" class="headerlink" title="主谓宾宾补"></a>主谓宾宾补</h2>宾 宾补==主（谓）宾<br>宾补修饰宾语=美丽的你</li>
-<li>You should keep the room clean and tidy.</li>
-</ul>
 <hr>
-<h1 id="谓语"><a href="#谓语" class="headerlink" title="谓语"></a>谓语</h1><p>有<em>时态</em>的<em>实义动词</em>和<em>系动词</em></p>
-<h2 id="一句话当中动词能不能多-。。。不能"><a href="#一句话当中动词能不能多-。。。不能" class="headerlink" title="__一句话当中动词能不能多?__。。。不能"></a>__一句话当中动词能不能多?__。。。不能</h2><ol>
-<li>谓语只能是动词。不能是名词，也不能是介词。。。</li>
-<li>动词只能做谓语。不能做主语，宾语，表语。</li>
+<h1 id="简单句分析"><a href="#简单句分析" class="headerlink" title="简单句分析"></a>简单句分析</h1><h2 id="写作"><a href="#写作" class="headerlink" title="写作"></a>写作</h2><ol>
+<li>所有写不来的长难句暂时都先写成简单句，一定要保证语法正确。<br>eg:<br>越来越多的大学生自杀，这个事实表明，我们应该关注这个话题了。<br>一个同位语从句，一个主句，一个宾语从句<br>More and more university students commited suicide.<br>we should pay atention to the issue.<br>站在讲台上的那个女人看起来很好看。<br>There is a lady .<br>she looks very beautiful.</li>
+<li>所有写不来的单词都用自己会的单词。<h2 id="长长句"><a href="#长长句" class="headerlink" title="长长句"></a>长长句</h2></li>
+<li>找动词。</li>
+<li>当一句话找到多个动词，就确定主句的谓语动词。<br>前面没有引导词的谓语动词就是主句的谓语动词。</li>
 </ol>
-<ul>
-<li><del>Laugh</del> at others is my hobby.</li>
-<li>I enjoy <del>see</del> movies.</li>
-<li>My dream is <del>become</del> a rich lady.<br>summer:谓语=动词<br>一句话当中动词不能多，且只能作谓语，所有不做谓语的动词，都要变成非谓语。<br>注：以上三个句子是错的。<h2 id="练习"><a href="#练习" class="headerlink" title="练习"></a>练习</h2></li>
-</ul>
-<ol>
-<li>他穿上外衣，锁上门，离开了家。<br>He <strong>putting</strong> on his jacket, <strong>locking</strong> the door, <strong><em>left</em></strong> home.</li>
-<li>大熊猫是熊科中最罕见的成员，主要生活在中国西南部的森林里。<br>Pandas keep the rarest members in bear family, mainly living in the forest of Chinese Southwest.</li>
-<li>长江流经不同的生态体系，是诸多濒危物种的栖息地，灌溉了中国5/1的土地。<br>Changjiang River <strong>flowing</strong> through diverse ecological systems, <strong><em>keeps</em></strong> the habitat of a sea of endangered species, <strong>irrigating</strong> Chinese 1/5 land.</li>
-<li>我爱你，你爱我。<br>I loveing you, you love i.(独立主格)</li>
-<li>冬天来了，春天就不远了。<br>Winter approaching, spring will be around the corner.</li>
-<li>我是一个老师，我喜欢唱歌。<br><del>I</del> Being a teacher, i have passion for singing songs.(分词作状语)<br>注：</li>
-<li>世界上为什么会有独立主格?<br>英语本来是极简单的，<strong>都是单句</strong>，只有主谓宾，主谓宾，每句写完都要点句号，而太简单的东西无法承载历史，语言学家们为了增加英语复杂度。，即把多句话合并，语言学家采用了</li>
-<li>分词作状语和独立主格完全是一回事，只不过独立主格的主语不一致不能省略，分词作状语主语一致，能省略，仅此而已。</li>
-</ol>
-<ul>
-<li>独立主格（非谓语）<br>n句话写成一句话，留一个最重要的一个动词做谓语，其它动词都变成非谓语。</li>
-<li>并列句<br>加连词</li>
-<li>主从句<h2 id="一句话中，动词能不能少？。。。绝对不能"><a href="#一句话中，动词能不能少？。。。绝对不能" class="headerlink" title="一句话中，动词能不能少？。。。绝对不能"></a><strong>一句话中，动词能不能少？</strong>。。。绝对不能</h2>动词就是谓语，谓语就是动词。</li>
-<li>Your mather must <em>be</em> very beautiful.</li>
-<li>I am <em>against</em> you.<br>summer: 当一句话需要动词而又没有动词的时候，永远都加be动词，并且be没意思。<h2 id="谓语的总结"><a href="#谓语的总结" class="headerlink" title="谓语的总结"></a>谓语的总结</h2>一句话当中，有且只能有一个有时态的实义动词或系动词，并且充当谓语。</li>
-</ul>
-<hr>
-<h1 id="主语"><a href="#主语" class="headerlink" title="主语"></a>主语</h1><h2 id="成分：名词，代词，非谓语动词，从句-引导词-句子"><a href="#成分：名词，代词，非谓语动词，从句-引导词-句子" class="headerlink" title="成分：名词，代词，非谓语动词，从句(引导词+句子)"></a>成分：名词，代词，非谓语动词，从句(引导词+句子)</h2><ul>
-<li><del>Handsome and strong are his nature.</del></li>
-<li>Handsomeness and strength are his nature.(名词作主语)</li>
-<li>Being handsome and strong is his nature.(非谓语做主语)<br>需要动词而又没有动词，永远都加be动词。</li>
-</ul>
-<h2 id="一句话当中主语能不能少？"><a href="#一句话当中主语能不能少？" class="headerlink" title="一句话当中主语能不能少？"></a>一句话当中主语能不能少？</h2><p>祈使句不是没有主语，而是为了表达说话时强烈的语气而把主语省略了。<br><strong>绝对不能</strong><br>那句子每主语怎么办？</p>
-<ul>
-<li>北京很冷。(没主语)</li>
-</ul>
-<p>1.加it作为主要： 必须与天气，温度，时间有关系。<br>机舱里很闷。<br>It feels exceedingly hot in the cabin.</p>
-<ul>
-<li>河南有很多人。</li>
-</ul>
-<p>2.there be 句型，听到“有”的时候使用。<br>(be 太老，exist/seem/remain)<br><em>有很多人喜欢我。</em><br>There exist a host of undergraduates being fascinated with with me.(写作文单词越<em>准确</em>得分越高)</p>
-<ul>
-<li>必须指出自信很重要</li>
-</ul>
-<p>3.被动：当听到一句话没有主语或人称代词作主语的时候都可以考虑写成被动。<br>Persistence must be pointed out outstandingly crusial.<br><em>越来越多的人认为过度捕捞很严重。</em><br>more than 后面接形容词或福词都翻译成非常<br>Overfishing is claimed (think,consider) more than fearful (serious) by an increasing amount of professors.</p>
-<h3 id="三种情况无被动"><a href="#三种情况无被动" class="headerlink" title="三种情况无被动"></a>三种情况无被动</h3><ol>
-<li>动词后有介词的无被动。</li>
-<li>系动词无被动</li>
-<li>have 翻译为有的意思时无被动</li>
-<li>不到万不得已，不要使用人称代词作主语。</li>
-</ol>
-<p><em>如果有梦想，就应该会成功。</em><br>汉语式：If you have a dream, you will be success.<br>英语：If there exists a dream, glories are supposed to be achieved.<br>glorie n 荣耀<br>笨妹妹，多用高级词，开始可能很慢，习惯就快了。</p>
 ]]></content>
       <categories>
         <category>英语</category>
